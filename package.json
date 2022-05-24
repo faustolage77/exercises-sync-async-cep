@@ -4,7 +4,8 @@
   "description": "Exercício de criar um programa que retorna o endereço completo pelo cep - Estartando Devs ",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:evaluation": "jest --json --outputFile=/tmp/result.json"
   },
   "keywords": [],
   "author": "ED Team",
