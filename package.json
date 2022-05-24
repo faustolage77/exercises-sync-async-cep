@@ -1,0 +1,15 @@
+{
+  "name": "exercises-sync-async-cep",
+  "version": "1.0.0",
+  "description": "Exercício de criar um programa que retorna o endereço completo pelo cep - Estartando Devs ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "ED Team",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
