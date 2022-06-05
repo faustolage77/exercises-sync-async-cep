@@ -39,3 +39,8 @@ async function getAddressByCep(cep) {
 }
 
 module.exports = { getAddressByCep };
+
+
+
+getAddressByCep("32670244");
+module.exports = { getAddressByCep };
